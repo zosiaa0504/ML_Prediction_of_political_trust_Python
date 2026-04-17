@@ -25,7 +25,7 @@ The objective of the classification project is to examine what individual charac
 Model parameter tuning was performed using cross-validated grid search for the decision tree and cross-validated randomized search for the ensemble models on a stratified training subsample. The selected models were then refit on the full training set and evaluated on a held-out test set using balanced accuracy as the primary metric, with accuracy, precision, recall, and F1-score reported as secondary metrics.
 
 Jupyter Notebooks (.ipynb) and PDF files contain full code, preprocessing, model tuning, and evaluation.
-Presentation PDFs contain 7-10 slides summarizing the project.
+Presentation PDF summarizes the project.
 
 ## Technical details
 
