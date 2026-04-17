@@ -1,5 +1,5 @@
 # ML_Prediction_of_political_trust_Python
-Classification project - predicting the level of trust in politicians
+Classification project - Prediction of the level of public trust in politicians
 
 
 ## Datasets
